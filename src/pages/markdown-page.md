@@ -6,6 +6,6 @@ title: Markdown page example
 
 You dontcsdfdsdfds.
 
-![Texto se nao aparecer](/static/img/docusaurus.png)
+![Texto se nao aparecer](/)
 
 [voltar a pagina principal](/)
