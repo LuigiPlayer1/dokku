@@ -4,4 +4,8 @@ title: Markdown page example
 
 # Markdown page example
 
-You don't need React to write simple standalone pages.
+You dontcsdfdsdfds.
+
+![Texto se nao aparecer](/static/img/a.png)
+
+[voltar a pagina principal](/)
